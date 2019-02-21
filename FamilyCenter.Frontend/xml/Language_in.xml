@@ -1,0 +1,32 @@
+<content>
+	<text id="home">
+		<zh>首页</zh>
+		<en>Home</en>
+	</text>
+  <text id="logintitle">
+    <zh>用户登录</zh>
+    <en>login</en>
+  </text>
+  <text id="UserName">
+    <zh>用户名</zh>
+    <en>username</en>
+  </text>
+  <text id="PassWord">
+    <zh>密码</zh>
+    <en>password</en>
+  </text>
+  <text id="UserNameEmpty">
+    <zh>用户名不能为空!</zh>
+    <en>Username cannot be empty!</en>
+  </text>
+  <text id="PassWordEmpty">
+    <zh>密码不能为空!</zh>
+    <en>Password cannot be empty!</en>
+  </text>
+  <text id="LoginButton">
+    <zh>登录</zh>
+    <en>Login</en>
+  </text>
+</content>
+	
+
